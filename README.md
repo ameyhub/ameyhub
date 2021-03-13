@@ -17,9 +17,10 @@
 <br />
 <br />
 ###---Connect me On---###
-[website]: https://ameyhub.github.io/Amey-portfolio/
-[instagram]: https://www.instagram.com/a.s.didolkar/
-[linkedin]: https://www.linkedin.com/in/amey-didolkar-ba1490140/
+<br>
+[website]: https://ameyhub.github.io/Amey-portfolio/<br>
+[instagram]: https://www.instagram.com/a.s.didolkar/<br>
+[linkedin]: https://www.linkedin.com/in/amey-didolkar-ba1490140/<br>
 
 
 
