@@ -36,17 +36,31 @@
 <p>
  
 </p>
+<hr>
+<h3>
+  Github Stats
+  </h3>
+  
+<p align="center">
+  
+[![Amey Didolkar GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyhub)](https://github.com/ameyhub/github-readme-stats)</p>
 
+<h3>
+  Top Languages
+  </h3>
+
+  <img align="center" src="https://camo.githubusercontent.com/113d2913d6d38488955b5d16dcbddfb759ae78692a034c72c0983b60acb939e7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d76656e75676f70616c6b6164616d6261267468656d653d746f6b796f6e69676874266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalkadamba&amp;theme=tokyonight&amp;layout=compact" style="max-width:100%;">
+  
 <br>
 <hr>
-<br>
+<h3 align="center">
+  **** Follow Me ****
+  </h3>
 
+<p align="center" ><a href="https://www.linkedin.com/in/amey-didolkar-ba1490140/" rel="nofollow"><img height="32" width="32" src="https://camo.githubusercontent.com/bace7e470c2200b17f5fe478352331bbfa4e94c79abeaea56b394148c1993e2d/68747470733a2f2f7777772e6265636b65722e6564752f77702d636f6e74656e742f75706c6f6164732f323032302f30342f4c696e6b6564496e2d4c6f676f2e706e67" data-canonical-src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/a.s.didolkar/" rel="nofollow"><img height="32" width="32" src="https://camo.githubusercontent.com/b59e687de7d4f68dab32dcab6ce5123a9deaf123853d968bcc2f9d2b4b3f088f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f496e7374616772616d5f6c6f676f5f323031362e7376672f37363870782d496e7374616772616d5f6c6f676f5f323031362e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-
-[![Amey Didolkar GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyhub)](https://github.com/ameyhub/github-readme-stats)
-
-
-<p align="center">
-  <img align="center" src="https://camo.githubusercontent.com/113d2913d6d38488955b5d16dcbddfb759ae78692a034c72c0983b60acb939e7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d76656e75676f70616c6b6164616d6261267468656d653d746f6b796f6e69676874266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalkadamba&amp;theme=tokyonight&amp;layout=compact" style="max-width:100%;">
-  </p>
-
+  
+  
+  
