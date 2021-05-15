@@ -41,9 +41,11 @@
 <hr>
 <br>
 
-<img align="center" alt="Venu Gopal Github Stats" src="https://camo.githubusercontent.com/89670d5207922715dc0d4ae1f43f05138f0cbcbce1d195b079de6b7b5f63c838/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d76656e75676f70616c6b6164616d62612673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ameyhub&amp;show_icons=true&amp;theme=tokyonight" style="max-width:100%;">
 
-[![Amey Didolkar GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyhub)](https://github.com/ameyhub/github-readme-stats) 
+
+[![Amey Didolkar GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyhub)](https://github.com/ameyhub/github-readme-stats)
+
+
 <p align="center">
   <img align="center" src="https://camo.githubusercontent.com/113d2913d6d38488955b5d16dcbddfb759ae78692a034c72c0983b60acb939e7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d76656e75676f70616c6b6164616d6261267468656d653d746f6b796f6e69676874266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalkadamba&amp;theme=tokyonight&amp;layout=compact" style="max-width:100%;">
   </p>
