@@ -1,4 +1,6 @@
-<h5>###---Bonjour---###<h5>
+<h5>
+  Bonjour
+</h5>
 
 - 👋 I’m Amey Didolkar (@ameyhub)
 - 👀 I’m interested in computer vision / artificial intelligence 
